@@ -11,7 +11,6 @@ Y = [[5,8,1],
 result = [[0,0,0],
           [0,0,0],
           [0,0,0]]
-
 # iterate through rows
 for i in range(len(X)):
     # iterate through columns
